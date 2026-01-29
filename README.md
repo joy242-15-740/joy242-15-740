@@ -41,7 +41,7 @@ As a philomath, I thrive on structured exploration, rigorous problem-solving, an
 <a href="https://www.leetcode.com/muntasiractive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muntasiractive" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/muntasiractive/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="muntasiractive/profile" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/muntasiractive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="muntasiractive" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/xBjUCeYj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/xBjUCeYj" height="30" width="40" /></a>
+<a href="https://discord.gg/D843DWb8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/xBjUCeYj" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
