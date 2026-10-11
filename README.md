@@ -2,23 +2,23 @@
 
 # Mohammed Muntasir Rahman Joy
 
-### Full Stack Developer • Workflow Architect • Creative Technologist
+### Full Stack Developer • System Architect • Creative Technologist
 
-[![Website](https://img.shields.io/badge/muntasir.site-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muntasir.site)
-[![Gmail](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muntasiractive@gmail.com)
+[![Website](https://img.shields.io/badge/muntasir.net-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muntasir.net)
+[![Gmail](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect@muntasir.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muntasiractive)
 
 ---
 
-> "Building high-performance digital experiences with a zero-bloat philosophy."
+> A library of captured thoughts is a graveyard unless those thoughts are resurrected as actions.
 
 </div>
 
 ### 🌍 About Me
 
-I am a **philomath, explorer, and observer** from Bangladesh 🇧🇩. As a **Branding and Workflow Architect**, I specialize in creating scalable solutions that blend technical precision with creative problem-solving. My work focuses on workflow optimization, design architecture, and high-performance web development.
+I am a **philomath, explorer, and observer** from Bangladesh 🇧🇩. As a **Branding and Full Stack Developer**, I specialize in creating scalable solutions that blend technical precision with creative problem-solving. My work focuses on workflow optimization, design architecture, and high-performance web development.
 
-- 🛠️ **Founder & Chairperson of [Nuvic](https://www.nuvic.org)** - Leading technical and branding strategies.
+- 🛠️ **Founder & Chairperson of [Noor Unified Ventures of Innovation & Complex Organization](https://www.nuvic.org)**
 - ⚡ **Software Engineering** - Focused on algorithms, system design, and performance.
 - 🎨 **Creative Design** - Crafting intuitive user assets and brand identities.
 - 🤖 **Automation** - Architecting workflows that bridge the gap between idea and execution.
@@ -61,6 +61,21 @@ I am a **philomath, explorer, and observer** from Bangladesh 🇧🇩. As a **Br
 
 I am always open to collaborating on innovative projects, research, or creative ventures. If you're looking for **workflow architecture, high-end web development, or brand optimization**, feel free to reach out.
 
-- 📧 **Email:** [contact@muntasir.site](mailto:contact@muntasir.site)
-- 🌐 **Portfolio:** [muntasir.site](https://muntasir.site)
-- ☕ **Support:** [Buy me a coffee](https://www.buymeacoffee.com/muntasiractive)
+<div align="center">
+
+  <!-- Email Badge -->
+  <a href="mailto:connect@muntasir.net">
+    <img src="https://img.shields.io/badge/Email-connect%40muntasir.net-blue?style=for-the-badge&logo=gmail" alt="Email Badge"/>
+  </a>
+
+  <!-- Portfolio Badge -->
+  <a href="https://muntasir.net">
+    <img src="https://img.shields.io/badge/Portfolio-muntasir.net-success?style=for-the-badge&logo=google-chrome" alt="Portfolio Badge"/>
+  </a>
+
+  <!-- Support Badge -->
+  <a href="https://www.supportkori.com/muntasiractive">
+    <img src="https://img.shields.io/badge/Support-Kori-orange?style=for-the-badge&logo=buymeacoffee" alt="Support Badge"/>
+  </a>
+
+</div>
